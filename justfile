@@ -74,9 +74,9 @@ tasks:
 # Add custom tasks, enviroment variables
 
 # run project
-# run:
-#    #!pwsh
-#   python run.py
+run:
+    #!pwsh
+    python -m http.server
 
 
 
